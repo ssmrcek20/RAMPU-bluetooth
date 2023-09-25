@@ -1,3 +1,3 @@
 # bluetooth
 
-Project that is made for testing Bluetooth in Flutter
+Test project for making basic Bluetooth app in Flutter
